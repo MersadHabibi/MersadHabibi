@@ -1,4 +1,11 @@
-## Hi there👋! I'm Mersad Habibi
+## Hi 👋! I'm Mersad Habibi
+
+### Front-End Developer
+
+
+- 🌍  I'm based in Tabriz-azarshahr (Persian)
+- ✉️  You can contact me at [mersad.up18@gmail.com](mailto:mersad.up18@gmail.com)
+- 🧠  I'm learning ReactJS
 
 <br/>
 
