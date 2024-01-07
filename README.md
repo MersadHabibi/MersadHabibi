@@ -28,9 +28,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MersadHabibi&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MersadHabibi&theme=radical" />
 </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MersadHabibi/MersadHabibi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MersadHabibi/MersadHabibi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MersadHabibi/MersadHabibi/output/github-contribution-grid-snake.svg">
-</picture>
