@@ -1,4 +1,4 @@
-## Hi 👋! I'm Mersad Habibi
+# Hi 👋! I'm Mersad Habibi
 
 ### 💻 Front-End Developer
 
@@ -6,16 +6,17 @@
 - ✉️  You can contact me at [mersad.up18@gmail.com](mailto:mersad.up18@gmail.com)
 - 🧠  I'm learning ReactJS
 
-### 🔧 Skills
+## 🧰 Languages & Tools
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36" height="36" alt="Tailwind" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-</p>
+[![linkedin](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://t.me/Alphaa_codee)
+[![linkedin](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://t.me/Alphaa_codee)
+[![linkedin](https://img.shields.io/badge/Tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://t.me/Alphaa_codee)
+[![linkedin](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://t.me/Alphaa_codee)
+[![linkedin](https://img.shields.io/badge/Vite-FFD830?style=for-the-badge&logo=vite&logoColor=8F6EFE)](https://t.me/Alphaa_codee)
+[![linkedin](https://img.shields.io/badge/axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)](https://t.me/Alphaa_codee)
+[![linkedin](https://img.shields.io/badge/swiper-0080FF?style=for-the-badge&logo=swiper&logoColor=white)](https://t.me/Alphaa_codee)
 
-### 📞 Social
+## 📞 Social
 
 [![linkedin](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_xmersadx_?igshid=M2RkZGJiMzhjOQ==)
 [![linkedin](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alphaa_codee)
