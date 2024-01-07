@@ -17,14 +17,11 @@
 
 ### 📞 Social
 
-<p align="left">
-  <a href="https://instagram.com/_xmersadx_?igshid=M2RkZGJiMzhjOQ==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
-  <a href="https://t.me/Alphaa_codee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MersadHabibi/MersadHabibi/ffa36bc11c0c738dd9075cd4985012ef8ee92e92/4375108_logo_telegram_icon.svg" width="32" height="32" /></a>
-</p>
+[![linkedin](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_xmersadx_?igshid=M2RkZGJiMzhjOQ==)
+[![linkedin](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alphaa_codee)
 
-### ⚡ My Activity
+## 📊 Github Status
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MersadHabibi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MersadHabibi&theme=radical" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MersadHabibi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MersadHabibi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MersadHabibi&theme=tokyonight" />
