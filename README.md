@@ -23,7 +23,7 @@
 ## 📞 Social
 
 [![linkedin](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_xmersadx_?igshid=M2RkZGJiMzhjOQ==)
-[![linkedin](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alphaa_codee)
+[![linkedin](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MersadHabibi)
 
 ## 📊 Github Status
 <p>
