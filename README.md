@@ -5,8 +5,7 @@
 ### 💻 Front-End Developer
 
 - 🌍  I'm based in Tabriz-azarshahr (iran)
-- ✉️  You can contact me at [mersad.up18@gmail.com](mailto:mersad.up18@gmail.com)
-- 🧠  I'm learning NextJs
+- ✉️  You can contact me at [mersadhabibi.work@gmail.com](mailto:mersadhabibi.work@gmail.com)
 
 ## 🧰 Languages & Tools
 
