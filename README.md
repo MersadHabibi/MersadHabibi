@@ -22,7 +22,7 @@
 ## 📞 Social
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mersad-habibi-b2701b2bb/)
-[![instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_xmersadx_?igshid=M2RkZGJiMzhjOQ==)
+[![instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mersadhabibii?igsh=MTgzMnFmcndlNzZpdw%3D%3D)
 [![telegram](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MersadHabibi)
 
 
