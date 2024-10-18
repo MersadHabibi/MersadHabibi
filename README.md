@@ -8,6 +8,12 @@
 - 🌍  I'm based in Tabriz-azarshahr (iran)
 - ✉️  You can contact me at [mersadhabibi.work@gmail.com](mailto:mersadhabibi.work@gmail.com)
 
+### ✨ My projects
+
+- [Wiki sefaresh](https://www.wiki-sefaresh.ir/)
+- [Next e-commerce](https://next-ecommerce-murex-mu.vercel.app/)
+- [Arya shop](https://arya-company.com/)
+
 ## 🧰 Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,redux,webpack,vite,graphql,apollo,zustand)](https://github.com/MersadHabibi)
