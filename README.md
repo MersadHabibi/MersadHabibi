@@ -7,7 +7,7 @@
 - ✉️  [Portfolio website](https://mersadhabibi.ir)
 - 🌍  I'm based in Tabriz(iran)
 - ✉️  You can contact me at [mersadhabibi.work@gmail.com](mailto:mersadhabibi.work@gmail.com)
-- 📕  I'm currently learning React Native
+- 📕  I'm currently learning Flutter
 
 ### ✨ My projects
 
