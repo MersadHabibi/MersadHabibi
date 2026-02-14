@@ -12,7 +12,6 @@
 ### ✨ My projects
 
 - [Azarmelk](https://azarmelk.com/)
-- [Resistance art](https://resistanceart.ir/)
 - [Wiki sefaresh](https://www.wiki-sefaresh.ir/)
 - [Next e-commerce](https://next-ecommerce-murex-mu.vercel.app/)
 - [Arya shop](https://arya-company.com/)
