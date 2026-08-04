@@ -1,49 +1,56 @@
-<img style="width:100%" src=https://camo.githubusercontent.com/4c84ab4279f6dee7ee97a7aac724bd71759e7b7791f3528ebdf5247687524f66/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383231464637266865696768743d3132302673656374696f6e3d686561646572 />
+# Hi 👋, I'm Mersad Habibi
 
-# Hi 👋! I'm Mersad Habibi
+### Front-End Developer 🚀
 
-### 💻 Front-End Developer 
+I'm a Front-End Developer passionate about building modern, scalable, and user-friendly web applications.
 
-- ✉️  [Portfolio website](https://mersadhabibi.ir)
-- 🌍  I'm based in Tabriz(iran)
-- ✉️  You can contact me at [mersadhabibi.work@gmail.com](mailto:mersadhabibi.work@gmail.com)
-- 📕  I'm currently learning Flutter
+- 💻 Currently working with React, Next.js, TypeScript
+- 🌱 Learning Flutter and exploring mobile development
+- 📍 Based in Tabriz, Iran
+- 📫 Reach me at: mersadhabibi.work@gmail.com
 
-### ✨ My projects
+---
 
-- [Azarmelk](https://azarmelk.com/)
-- [Wiki sefaresh](https://www.wiki-sefaresh.ir/)
-- [Next e-commerce](https://next-ecommerce-murex-mu.vercel.app/)
-- [Arya shop](https://arya-company.com/)
+## 🚀 Featured Projects
 
-## 🧰 Languages & Tools
+| Project | Description |
+| --- | --- |
+| [Azarmelk](https://azarmelk.com/) | Real estate platform |
+| [Wiki Sefaresh](https://www.wiki-sefaresh.ir/) | Online ordering platform |
+| [Next E-commerce](https://next-ecommerce-murex-mu.vercel.app/) | E-commerce application built with Next.js |
+| [Arya Shop](https://arya-company.com/) | Company website |
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,redux,webpack,vite,graphql,apollo,zustand,socket)](https://github.com/MersadHabibi)
+---
 
-<!-- [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![](https://img.shields.io/badge/Tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/Vite-FFD830?style=for-the-badge&logo=vite&logoColor=8F6EFE)](https://vitejs.dev/)
-[![](https://img.shields.io/badge/axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/docs/intro)
-[![](https://img.shields.io/badge/swiper-0080FF?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/) -->
+## 🧰 Tech Stack
 
-## 📞 Social
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,redux,webpack,vite,graphql,apollo,zustand,socket)](https://skillicons.dev)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mersad-habibi-b2701b2bb/)
-[![instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mersadhabibii?igsh=MTgzMnFmcndlNzZpdw%3D%3D)
-[![telegram](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MersadHabibi)
+---
 
+## 🌐 Connect With Me
 
-## 📊 Github Status
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=MersadHabibi&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MersadHabibi&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MersadHabibi&theme=tokyonight" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mersad-habibi-b2701b2bb/)
 
-<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mersadhabibii)
 
-<img style="width:100%" src=https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg />
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MersadHabibi)
+
+---
+
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=MersadHabibi&theme=tokyonight&hide_border=true" />
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MersadHabibi&theme=tokyo-night&hide_border=true" />
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+<img src="https://raw.githubusercontent.com/MersadHabibi/MersadHabibi/output/github-contribution-grid-snake-dark.svg" />
+</div>
